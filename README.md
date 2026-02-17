@@ -23,8 +23,8 @@ React.js | Node.js | Express.js | MongoDB
 ### ⚙️ DevOps & Tools
 Git | GitHub | Docker | Linux | AWS (Learning)
 
-### ⚙️ DevOps & Tools
-SpringBoot | JDBC |   
+### ⚙️ FrameWorks
+SpringBoot | Jdbc |   
 ---
 
 ## 📊 GitHub Stats
