@@ -29,7 +29,7 @@ SpringBoot | Jdbc |
 
 ## 📊 GitHub Stats
 
-![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudarshan104&show_icons=true&theme=tokyonight)
+![Sudarshan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudarshan104&show_icons=true&theme=tokyonight)
 
 ---
 
